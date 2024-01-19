@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Yu Tang
+== Yu's Personal Website
 
 ~~~
 {}{img_left}{photos/singapore3.png}{alt text}{163}{200px}
@@ -10,13 +10,13 @@ Email: tangyu@nyu.edu \n
 ~~~
 
 == About me
-I'm currently Ph.D candidate (2019-present) at Tandon School of Engineering, New York University, co-advised by Professor [https://engineering.nyu.edu/faculty/kaan-ozbay Kaan Ozbay] and Professor [https://jinli.ji.sjtu.edu.cn Li Jin]. 
+I am currently Ph.D candidate (2019-present) at Tandon School of Engineering, New York University, co-advised by Professor [https://engineering.nyu.edu/faculty/kaan-ozbay Kaan Ozbay] and Professor [https://jinli.ji.sjtu.edu.cn Li Jin]. 
 Previously, I received M.S. in traffic control from Tongji University in 2019 and B.S. in traffic engineering from Tongji University in 2016.
 My research applies control theory, learning theory and stochastic processes to design resilient and safe cyber-physical-human systems, especially with an emphasis on intelligent transportation systems.
 
 
 == News
-- \[01-08-2024\] I gave a poster presentation of our paper " A Micro-Simulation Study of Connected Vehicle Data-Aided Ramp Metering Facing Cyber Disruptions" at 103rd Transporation Research Board Annual Meeting in Washington D.C, U.S.
+- \[01-08-2024\] I gave a poster presentation of our work "A Micro-Simulation Study of Connected Vehicle Data-Aided Ramp Metering Facing Cyber Disruptions" at 103rd Transporation Research Board Annual Meeting in Washington D.C, U.S.
 - \[01-04-2024\] Our paper "Resilient Control of Dynamic Flow Networks Subject to Stochastic Cyber-Physical Disruptions" was accepted by IEEE Transactions on Automatic Control.
 - \[12-14-2023\] I gave an oral presentation of our paper "How Does Driver Non-Compliance Destroy Traffic Routing Control?" at 62nd IEEE Conference on Decision and Control in Singapore.
 - \[09-25-2023\] I gave an oral presentation of our paper "Robust Queue Length Estimation for Ramp Metering in a Connected Vehicle Environment" at 2023 IEEE Conference on Intelligent Transportation Systems in Bilbao, Spain.
