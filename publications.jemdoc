@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+=== Conference
+- How Does Driver Non-Compliance Destroy Traffic Routing Control? \n
+*Yu Tang*, Kaan Ozbay and Li Jin \n
+62ne IEEE Conference on Decision and Control, Singapore. \n
+- Robust Queue Length Estimation for Ramp Metering in a Connected Vehicle Environment \n
+2023 IEEE Conference on Intelligent Transportation Systems, Bilbao, Spain. \n
+*Yu Tang*, Li Jin and Kaan Ozbay \n
+- Security Risk Analysis of the Shorter-Queue Routing Policy for Two Symmetric Servers \n
+*Yu Tang*, Yining Wen and Li Jin \n
+2020 Amercian Control Conference, Denvor, U.S.\n
+- Joint Optimization of Tram Timetables and Traffic Signal Timings \n
+*Yu Tang*, Yuxiong Ji, Wei Wang and Yuchuan Du \n
+97th Transportation Research Board Annual Meeting, Washington D.C., U.S.\n
+
+=== Journal
+- Resilient Control of Dynamic Flow Networks Subject to Stochastic Cyber-Physical Disruptions \n
+*Yu Tang* and Li Jin \n
+IEEE Transactions on Automatic Control, 2024. \n
+- A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data \n
+Bing Liu, *Yu Tang* , Yuxiong Ji, Yu Shen and Yuchuan Du \n
+Journal of Advanced Transportation, 2021. \n
+- An Integrated Approach for Tram Prioritization in Signalized Corridors \n
+Yuxiong Ji, *Yu Tang*, Yu Shen, Yuchuan Du and Wei Wang \n
+IEEE Transactions on Intelligent Transportation Systems, 2019. \n
+- Coordinated Optimization of Tram Trajectories with Arterial Signal Timing Resynchronization \n
+Yuxiong Ji, *Yu Tang*, Yuchuan Du and Xi Zhang \n
+Transportation Research Part C: Emerging Technologies, 2019. \n
+- Tram-Oriented Traffic Signal Timing Resynchronization \n
+Yuxiong Ji, *Yu Tang*, Wei Wang and Yuchuan Du \n
+Journal of Advanced Transportation, 2018. \n
+
+
